@@ -1,0 +1,7 @@
+/composer.lock
+/.git
+/Dockerfile
+/node_modules
+/vendor
+/opt
+/Makefile
